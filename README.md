@@ -22,7 +22,7 @@ We greatly appreciate donations as they help support the development and mainten
 
 Join our vibrant community group to connect with other users and contributors. Share your experiences, exchange ideas, hotspot portals, and stay up to date with the latest developments and enhancements of JuanFi.
 
-- Facebook Group: [JuanFi Community](https://www.facebook.com/groups/1172413279934139)
+- Facebook: [TekNova](https://www.facebook.com/radiocomunicaciones.nova/)
 
 # **Features**
 
