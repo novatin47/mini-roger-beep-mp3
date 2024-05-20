@@ -55,8 +55,11 @@ Como cualquier memoria USB puedes
 ---
 > # **FUNCIONAMIENTO**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx4JMDnjKyU?si=X9XLC1oqym4XnScP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/kx4JMDnjKyU/0.jpg)](https://www.youtube.com/watch?v=kx4JMDnjKyU)
 
+> # **FABRICACION**
+
+[![Alt text](https://img.youtube.com/vi/xJW7V2quwtk/0.jpg)](https://www.youtube.com/watch?v=xJW7V2quwtk)
 
 ## Contributing
 
