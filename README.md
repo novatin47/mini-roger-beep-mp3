@@ -1,72 +1,48 @@
-# mini-roger-beep-mp3
-roger beep o tono de salida, es un accesorio de sonido para tu radio cb
-# **JuanFi**
-- ## Official Website: [juanfi.juansystems.com](https://juanfi.juansystems.com/)
+# **mini-roger-beep-mp3**
 
-- ## Android App: [JuanFi Manager](https://play.google.com/store/apps/details?id=com.juanfi.mobile.admin)
+- ## roger beep o tono de salida, es un accesorio de sonido para tu radio cb
 
+¡Transforma tu experiencia de radio CB con nuestro innovador accesorio de música! Este dispositivo revolucionario se adapta fácilmente a cualquier radio CB, permitiéndote reproducir tus canciones favoritas mientras te mantienes en comunicación. Ideal para conductores de largas distancias y entusiastas del aire libre, nuestro accesorio no solo proporciona entretenimiento, sino que también mejora tus viajes con un sonido de alta calidad. Compacto, fácil de instalar y compatible con todos los modelos de radio CB, este accesorio es el compañero perfecto para cualquier aventura. ¡No te pierdas la oportunidad de llevar tu radio CB al siguiente nivel con música y entretenimiento ilimitado!
 
-JuanFi is an innovative open-source system designed for seamless coinslot integration with MikroTik Hotspot. It provides a comprehensive solution for managing and monetizing internet access through the integration of a coinslot mechanism. With JuanFi, hotspot owners can effortlessly incorporate a coinslot system into their network infrastructure, enabling them to offer paid internet access in an efficient and user-friendly manner.
+## **Donacion**
 
+¡Apoya nuestra causa con tu donación! Tu contribución nos ayuda a seguir adelante y marcar la diferencia. ¡Gracias por tu generosidad!
 
+- PayPal account: [paypal.me/ingromx](https://paypal.me/ingromx)
 
-
-## **Donation**
-
-We greatly appreciate donations as they help support the development and maintenance of JuanFi. If you wish to contribute and show your support, you can make a donation using the following methods:
-``
-- Gcash account: Ivan Julius Alayan - 09175425572
-- PayPal account: [paypal.me/ivanalayan](https://www.paypal.com/paypalme/ivanalayan)
-
-# **Community Group**
-
-Join our vibrant community group to connect with other users and contributors. Share your experiences, exchange ideas, hotspot portals, and stay up to date with the latest developments and enhancements of JuanFi.
+# **Comunidad**
 
 - Facebook: [TekNova](https://www.facebook.com/radiocomunicaciones.nova/)
 
 # **Features**
 
- ### Hardware Option
+- Funciona con cualquier MicroSD
+- Con los formatos de audio mas usados: wav y mp3
+- Soporta desde 1 hasta 255 tonos (archivos de sonido)
 
-- Wireless based
-- Lan based
+### Sistema de grabacion
 
-### Coinslot System
+Como cualquier memoria USB puedes
 
-- Mikrotik integration
-- Pause expiration
-- Codeless generation
-- Anti Coinslot abuse system
-- LCD Display
-- Code generation in vendo using LCD without device needed
-- Multi vendo system
+- Eliminar
+- Agregar
+- Editar
+- Reemplazar
+- Sin software especial
 
-### Admin System
+### Formatos de audio
 
-- Initial setup of the system
-- Mikrotik connection setup, SSID setup, coinslot settings
-- Promo Rates configuration ( Rates, expiration)
-- Dashboard, Sales report
-- Custom pin configuration
-- coinslot abuse system config
+- Soporta Wav y mp3
+- Tiempo minimo de 1 segundo
+- Tiempo maximo, sin limites
 
-## Requirements
+## Requerimientos
 
-1.) NodeMCU(ESP8266) for wireless/lan or NodeMCU(ESP32) for wireless/lan
-
-2.) Coinslot
-
-3.) Mikrotik Router
-
-4.) Access Point
-
-5.) Node MCU baseboard( Optional for wireless)
-
-6.) Power Supply (12v for nodeMCU, another 12v for Mikrotik)
-
-7.) W5500 for Lan based
-
-8.) LM2596 or any DC to DC buck that can convert to 5v for (Lan based only since no available baseboard for ESP32)
+1.) Conocimientos basicos de electronica
+2.) Conocimientos basicos de computacion
+3.) Experiencia de trabajo con radios cb
+4.) Memoria MicroSD de 8gb, 16gb, 32gb
+5.) Equipos necesarios para soldar
 
 
 ---
