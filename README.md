@@ -53,7 +53,10 @@ Como cualquier memoria USB puedes
 
 
 ---
-> # **Architecture** 
+> # **FUNCIONAMIENTO**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx4JMDnjKyU?si=X9XLC1oqym4XnScP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Contributing
 
